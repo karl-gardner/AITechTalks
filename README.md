@@ -4,7 +4,7 @@ Code Reviews of Popular Machine Learning Algorithms
 
 <div align="center">
   <a href="https://www.depts.ttu.edu/che/research/li-lab/">
-  <img src="https://user-images.githubusercontent.com/91646805/154190573-53e361f6-7c60-4062-b56b-7cbd11d39fc4.jpg"/></a><br><br>
+  <img src="https://github.com/karl-gardner/ml_code_reviews/assets/91646805/2e1fb89f-9259-4d07-b561-78da9aba7cb2"/></a><br><br>
   
   <a href="https://www.depts.ttu.edu/che/research/li-lab/">
   <img src="https://user-images.githubusercontent.com/91646805/156635015-0cdcb0bb-0482-4693-b096-04f2a78f6b8e.svg" height="32"/></a>
