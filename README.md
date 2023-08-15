@@ -8,7 +8,7 @@
   <img src="https://github.com/karl-gardner/ml_code_reviews/assets/91646805/7f653581-fa8a-4f5d-bf3d-d4f50f89c56e" height="32"/></a>
   
   <a href="https://www.linkedin.com/in/karl-gardner-5373a8142/">
-  <img src="https://github.com/karl-gardner/ml_code_reviews/assets/91646805/7002b208-d2bf-4500-ae11-7acc0bc267c5" height="32"/></a>
+  <img src="https://github.com/karl-gardner/ml_code_reviews/assets/91646805/8b1b0f6c-f904-4599-a479-4fd743f4a72e" height="32"/></a>
   
   <a href="https://www.depts.ttu.edu/che/">
   <img src="https://user-images.githubusercontent.com/91646805/156641068-be8f0336-89b5-43e9-aa64-39481ce37c94.svg" height="32"/></a>
