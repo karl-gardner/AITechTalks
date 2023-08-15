@@ -11,7 +11,7 @@
   <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/badges/LinkedIn.svg" height="32"/></a>
   
   <a href="https://hastie.su.domains/Papers/ESLII.pdf">
-  <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/badges/StatisticalLearning2.svg" height="32"/></a>
+  <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/badges/StatisticalLearning.svg" height="32"/></a>
   
   <a href="https://roboflow.com/">
   <img src="https://user-images.githubusercontent.com/91646805/156641388-c609a6aa-8fce-47f0-a111-abfde9c5da05.svg" height="32"/></a><br>
