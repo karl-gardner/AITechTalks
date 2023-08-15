@@ -5,10 +5,10 @@
   <img src="https://github.com/karl-gardner/ml_code_reviews/assets/91646805/c4662e21-1e33-41fc-8a1d-c54f8e721a09"/></a><br><br>
 
   <a href="https://www.youtube.com/channel/UCzc59V6P4sqRHVvbzNeIKWg">
-  <img src="https://github.com/karl-gardner/ml_code_reviews/assets/91646805/7f653581-fa8a-4f5d-bf3d-d4f50f89c56e" height="32"/></a>
+  <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/badges/YoutubeChannel.svg" height="32"/></a>
 
   <a href="https://www.linkedin.com/in/karl-gardner-5373a8142/">
-  <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/assets/LinkedIn.svg" height="32"/></a>
+  <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/badges/LinkedIn.svg" height="32"/></a>
   
   <a href="https://www.depts.ttu.edu/che/">
   <img src="https://user-images.githubusercontent.com/91646805/156641068-be8f0336-89b5-43e9-aa64-39481ce37c94.svg" height="32"/></a>
