@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.depts.ttu.edu/che/research/li-lab/">
-  <img src="https://github.com/karl-gardner/AITechTalks/assets/91646805/df45ce1a-ee96-4a44-94cf-63eb3a9b0448"/></a><br><br>
+  <img src="https://github.com/karl-gardner/AITechTalks/assets/91646805/99fb855e-0d4c-4122-aca1-6f010720de8b"/></a><br><br>
 
   <a href="https://www.youtube.com/channel/UCzc59V6P4sqRHVvbzNeIKWg">
   <img src="https://github.com/karl-gardner/ml_code_reviews/blob/main/badges/YoutubeChannel.svg" height="32"/></a>
