@@ -31,7 +31,7 @@
 
 
 # Code Reviews of Popular Machine Learning Algorithms
-This repository is part of the AITechtalks youtube scribing popular machine learning algorithms in python and c++. Karl uses the source code of well-known GitHub repositories and simplifies the code to explain it to his viewers.
+AITechTalks implements and explains popular machine learning algorithms in python and c++. Using the original source code is an important step as this is the correct implementation of an algorithm. AITechTalks uses source code of popular algorithms and transforms the complex code into simplified python and c++ code to explain to viewers. Thus, the code and implementation is not gathered from outside blogs or other internet posts, as this information can be distorted.
 </div>
 
 
