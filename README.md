@@ -1,7 +1,7 @@
 <h4 align="center">Author: Karl Gardner<br>Data Scientist, Chemical Engineer, PhD</h4>
 
 <div align="center">
-  <a href="https://www.depts.ttu.edu/che/research/li-lab/">
+  <a href="https://www.youtube.com/@AITechTalks">
   <img src="https://github.com/karl-gardner/AITechTalks/assets/91646805/99fb855e-0d4c-4122-aca1-6f010720de8b"/></a><br><br>
 
   <a href="https://www.youtube.com/channel/UCzc59V6P4sqRHVvbzNeIKWg">
