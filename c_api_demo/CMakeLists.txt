@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.18)
+project(demo LANGUAGES C CXX)
+find_package(xgboost REQUIRED)
+add_executable(demo demo.c)
+target_link_libraries(demo xgboost::xgboost)

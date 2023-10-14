@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/demo.dir/demo.c.o -o demo  -Wl,-rpath,/usr/local/lib /usr/local/lib/libxgboost.so 
