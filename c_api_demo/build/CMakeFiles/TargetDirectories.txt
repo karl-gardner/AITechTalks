@@ -1,3 +1,0 @@
-/home/karl_gardner/c_api_demo/build/CMakeFiles/demo.dir
-/home/karl_gardner/c_api_demo/build/CMakeFiles/edit_cache.dir
-/home/karl_gardner/c_api_demo/build/CMakeFiles/rebuild_cache.dir
